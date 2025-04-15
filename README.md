@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmishhYadav
-- 👀 I’m looking for help with Machine Learning
-- 🌱 I’m currently learning C++
+- 👀 I’m looking for help with Machine Learnin
+- 🌱 I’m currently learning React
 - 📫 How to reach me: amishyadav126@gmail.com
 
 <!---
